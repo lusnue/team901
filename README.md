@@ -1,4 +1,5 @@
 # team901
+<<<<<<< Updated upstream
 
 ## 📌 프로젝트 소개
 위시리스트 추천 서비스
@@ -11,3 +12,5 @@
 2. 모든 커밋은 Issue 기반으로 진행
 3. 최소 1명 이상의 리뷰어 승인 후 Merge
 4. 상세 규칙은 [팀 규칙 문서](https://www.notion.so/docs/team-rules.md) 확인
+=======
+>>>>>>> Stashed changes
